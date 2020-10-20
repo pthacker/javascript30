@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background: url('https://i.imgur.com/b9r5sEL.jpg') bottom center;
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FiTxbxJh_eighth-note-drum-beats-sheet-music-2-of%2F&psig=AOvVaw3up_0LslJV3TTyjK7Ij6JF&ust=1603286396856000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDQybWhw-wCFQAAAAAdAAAAABAD') bottom center;
     background-size: cover;
   }
   
@@ -24,7 +24,7 @@ html {
     margin: 1rem;
     font-size: 1.5rem;
     padding: 1rem .5rem;
-    transition: all .07s ease;
+    transition: all .08s ease;
     width: 10rem;
     text-align: center;
     color: white;
@@ -33,7 +33,7 @@ html {
   }
   
   .playing {
-    transform: scale(1.1);
+    transform: scale(1.5);
     border-color: #ffc600;
     box-shadow: 0 0 1rem #ffc600;
   }
